@@ -5,19 +5,19 @@
 To design a dynamic and visually intuitive dashboard that enables hospital management to make data-backed operational decisions by tracking performance indicators across multiple dimensions such as patient demographics, yearly trends, and departmental efficiency.
 
 Key Insights / KPIs
-1.The dashboard answers several critical business questions, including:
-2.What is the total number of patients treated each year (2023–2024)?
-3.What is the average waiting time and how does it vary over time?
-4.What is the overall patient satisfaction score?
-5.What percentage of patients were admitted vs. non-admitted?
-6.Which departments received the highest referrals?
-7.What is the age-wise distribution of patients in the emergency room?
-8.Tools & Technologies
-9.Microsoft Excel
-10.Pivot Tables & Pivot Charts
-11.Slicers & Interactive Filters
-12.Conditional Formatting
-13.Data Cleaning & Transformation Techniques
+-The dashboard answers several critical business questions, including:
+-What is the total number of patients treated each year (2023–2024)?
+-What is the average waiting time and how does it vary over time?
+-What is the overall patient satisfaction score?
+-What percentage of patients were admitted vs. non-admitted?
+-Which departments received the highest referrals?
+-What is the age-wise distribution of patients in the emergency room?
+-Tools & Technologies
+-Microsoft Excel
+-Pivot Tables & Pivot Charts
+-Slicers & Interactive Filters
+-Conditional Formatting
+-Data Cleaning & Transformation Techniques
 
 Skills Demonstrated:
 1.Data Cleaning and Preprocessing
