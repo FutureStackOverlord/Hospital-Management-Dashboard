@@ -1,7 +1,7 @@
-#Hospital Management Dashboard (Interactive Excel Project)
-##Overview: The Hospital Management Dashboard is an interactive Excel-based analytics project designed to monitor and evaluate the performance of a hospital’s emergency room operations. It presents actionable insights through visual representations of key metrics such as patient admissions, average wait times, satisfaction levels, and departmental referrals. This project was developed as part of my self-learning initiative using YouTube resources, where I implemented advanced Excel functionalities to create a professional, data-driven dashboard from scratch. The dataset used was sourced from the same tutorial reference for educational purposes.
+# Hospital Management Dashboard (Interactive Excel Project)
+## Overview: The Hospital Management Dashboard is an interactive Excel-based analytics project designed to monitor and evaluate the performance of a hospital’s emergency room operations. It presents actionable insights through visual representations of key metrics such as patient admissions, average wait times, satisfaction levels, and departmental referrals. This project was developed as part of my self-learning initiative using YouTube resources, where I implemented advanced Excel functionalities to create a professional, data-driven dashboard from scratch. The dataset used was sourced from the same tutorial reference for educational purposes.
 
-##Objective
+## Objective
 To design a dynamic and visually intuitive dashboard that enables hospital management to make data-backed operational decisions by tracking performance indicators across multiple dimensions such as patient demographics, yearly trends, and departmental efficiency.
 
 Key Insights / KPIs
